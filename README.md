@@ -7,4 +7,4 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Status](https://img.shields.io/badge/FEBIC-Aprovado-10B981?style=for-the-badge)](#-reconhecimento-e-pesquisa)
 
-> **GlicoVoz** é uma solução de tecnologia assistiva baseada em Interfaces de Voz (VUI) e Inteligência Artificial, desenvolvida para simplificar o diário glicêmico de idosos diabéticos. O projeto reduz em 70% o tempo de registro da glicemia e elimina as barreiras visuais e motoras da digitação manual através do processamento de linguagem natural.
+> **GlicoVoz** é uma solução de tecnologia assistiva baseada em Interfaces de Voz (VUI) e Inteligência Artificial, desenvolvida para simplificar o diário glicêmico de idosos diabéticos. O projeto reduz o tempo de registro da glicemia e elimina as barreiras visuais e motoras da digitação manual através do processamento de linguagem natural.
