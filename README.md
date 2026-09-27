@@ -1,4 +1,4 @@
-# 🎙️ GlicoVoz — Web & Mobile
+# GlicoVoz — Mobile
 
 [![Expo](https://img.shields.io/badge/Expo-SDK_54%2B-000000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 [![React Native](https://img.shields.io/badge/React_Native-0.76%2B-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
